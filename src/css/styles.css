@@ -379,7 +379,3 @@ input[type='number']:disabled {
   color: #808080;
   background-color: #fafafa;
 }
-.iziToast {
-  border-radius: 8px;
-  font-family: 'Montserrat', Arial, sans-serif;
-}
